@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  margin-top: 80px;
+}
+
+.content {
+  margin-bottom: 2rem;
+}
+
+.content h1 {
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 76.88px;
+  letter-spacing: -2.1px;
+  text-align: center;
+  width: 794px;
+  height: 154px;
+  margin-bottom: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.highlightedText {
+  background-image: linear-gradient(90deg, #d4f938 100%, #32d875 96%);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.content h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  font-weight: 659.8px;
+  line-height: 32.85px;
+  color: #e7e7ea;
+}
+
+.images {
+  display: flex;
+  justify-content: space-between;
+  width: 1134.91px;
+  height: 671.3px;
+  margin-top: 5rem;
+}
+
+.tradeNow {
+  font-size: 18px;
+  font-weight: 700;
+  color: #000000;
+  background-image: linear-gradient(90deg, #d4f938 0%, #32d875 100%);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-image 0.3s ease;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+.tradeNow:hover {
+  background-color: #32d875;
+}

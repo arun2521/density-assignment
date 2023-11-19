@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .content {
+    margin-bottom: 2rem;
+  }
+
+  .content h1 {
+    font-weight: 700;
+    font-size: 96px;
+    line-height: 100px;
+    letter-spacing: -4.19px;
+    text-align: center;
+    width: 693px;
+    height: 200px;
+    margin-bottom: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .highlightedText {
+    background-image: linear-gradient(90deg, #32D875 0%, #D4F938 70%);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  .content h3 {
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 28.8px;
+    color: #E7E7EA;
+  }
+  
+  .images {
+    display: flex;
+    justify-content: space-between;
+    width: 779.59px;
+    height: 668.7px;
+    margin-top: 5rem;
+  }
+  
+  .phone1 {
+    width: 297.24px;
+    height: 641.39px;
+    top: 12.75px;
+    left: 15.7px;
+  }
+  
+  .phone2 {
+    width: 261.34px;
+    height: 529.67px;
+    top: 10.07px;
+    left: 12.39px;
+    margin-top: 60px;
+  }
+  
+  .phone3 {
+    width: 234.6px;
+    height: 506.24px;
+    top: 10.07px;
+    left: 12.39px;
+    margin-top: 60px;
+  }
+
+  /* .circularBackground {
+    width: 779.59px;
+    height: 668.7px;
+    border-radius: 70%;
+    background-color: rgb(67, 93, 67);
+    position: absolute;
+    z-index: -1;
+  } */
+  

@@ -1,0 +1,89 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #229851;
+  /* padding: 20px; */
+  width: 1, 446px;
+  height: 360.29px;
+}
+
+.logo img {
+  width: 127.31px;
+  height: 29.26px;
+  margin-top: -100px;
+}
+
+.columns {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 80px;
+  margin-top: 30px;
+  width: 628.17px;
+  height: 17px;
+}
+
+.columns h5 {
+  /* width: 30px; */
+  height: 17px;
+  /* margin: auto; */
+  color: #ffffff;
+  /* text-align: center; */
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16.8px;
+  left: 79.36px;
+}
+
+.description h5 {
+  width: 786.88px;
+  height: 48px;
+  color: #DDDDDD;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.socialIcons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30px;
+  gap: 25px;
+}
+
+.socialIcons img {
+  margin: 0 5px;
+}
+
+.facebook {
+  width: 9.34px;
+  height: 18.68px;
+  top: 271.93px;
+  left: 638.92px;
+}
+
+.twitter {
+  width: 24.02px;
+  height: 18.68px;
+  top: 271.93px;
+  left: 684.3px;
+}
+
+.linkedin {
+  width: 21.35px;
+  height: 20.02px;
+  top: 270.6px;
+  left: 739.01px;
+}
+
+.instagram {
+  width: 21.35px;
+  height: 24.02px;
+  top: 269.26px;
+  left: 791.06px;
+}
